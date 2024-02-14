@@ -1,0 +1,11 @@
+.cardList {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(150px, 170px) );
+    gap: 20px;
+    justify-content: center;
+}
+
+.cardList :hover {
+    background-color: rgb(255, 187, 187);
+}

@@ -1,0 +1,17 @@
+.scroll-box {
+    margin-top: 20px;
+    padding: 20px 0;
+}
+
+@media only screen and (max-width: 950px) {
+    .scroll-box {
+        overflow-y: scroll;
+        height: 440px;
+    }
+}
+
+@media only screen and (max-width: 567px) {
+    .scroll-box {
+        height: 640px;
+    }
+}

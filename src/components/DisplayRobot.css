@@ -1,0 +1,24 @@
+.displayedRobot > img{
+    height: 300px;
+    width: 300px;
+}
+
+.displayedRobot > p{
+    margin: 5px;
+}
+
+.previous {
+    margin-top: 20px;
+    height: 50px;
+    width: 50px;
+    background-color: #f1f1f1;
+    color: black;
+    border: 1px solid black;
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 5px;
+  }
+
+.round {
+border-radius: 50%;
+}

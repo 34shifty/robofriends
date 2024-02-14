@@ -1,0 +1,19 @@
+.card {
+    width: 170px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+p {
+    margin: 0px;
+    font-style: italic;
+}

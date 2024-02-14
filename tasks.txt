@@ -1,0 +1,2 @@
+1. make form to add robofriends to the list.
+2. make delete button that appears when you hover on robot and that actually deletes him.
